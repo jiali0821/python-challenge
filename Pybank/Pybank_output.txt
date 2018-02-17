@@ -1,0 +1,5 @@
+Total Month is: 41
+Total Revenue is: 18971412
+Average Revenue Change is: -6594.12
+Greatest Decrese in Revenue:13-Feb, $-8285
+Greatest Increase in Revenue:16-Feb, $1837235
